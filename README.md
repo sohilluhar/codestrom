@@ -13,7 +13,7 @@
 ### Installation
 
 ``` sh
-- git clone https://github.com/priyamshah112/Medicyl.git
+- git clone
 ```
 ``` sh
 - cd Medicyl/medicyl
